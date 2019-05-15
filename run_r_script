@@ -1,0 +1,4 @@
+#!/bin/bash
+echo Running example script
+
+Rscript ~/example_r_colab_project/example_analysis.r
